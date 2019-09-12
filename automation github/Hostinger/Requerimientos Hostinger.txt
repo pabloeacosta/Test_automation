@@ -1,0 +1,8 @@
+Durante esta prueba manual se realizó:
+
+1.Botoneras
+2.Diseño responsive
+3.Links
+4.Ingreso de datos
+5.Revisión de datos
+
